@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code and PyCharm settings (optional but common)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Images folder
+images/
